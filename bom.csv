@@ -1,0 +1,8 @@
+Item,Designator,Footprint,Quantity,Manufacturer Part Number,Buy Link
+1,U1,ESP32-S3-WROOM-1,1,ESP32-S3-WROOM-1-N8R8,https://www.digikey.com
+2,USB1,USB-C-TYPE-C-16PIN,1,USB-C-16P,https://www.lcsc.com
+3,U5,AMS1117-3.3,1,AMS1117-3.3,https://www.lcsc.com
+4,U6,CH340C,1,CH340C,https://www.lcsc.com
+5,OLED1,HEADER-1X4,1,OLED-0.96-I2C,https://www.lcsc.com
+6,R1,0805,1,5.1k,https://www.lcsc.com
+7,R3 R4,TH-RESISTOR,2,10k,https://www.lcsc.com
