@@ -1,10 +1,10 @@
-# 🚀 Cyberpunk ESP32-S3 System Monitor - Engineering Journal
+# Cyberpunk ESP32-S3 System Monitor - Engineering Journal
 
 Welcome to the development log for the **Cyberpunk ESP32-S3 System Monitor PCB**. This journal documents the design, routing, aesthetic customization, and fabrication readiness of the custom hardware board.
 
 ---
 
-## 📅 Entry 1: Schematic Design
+## Entry 1: Schematic Design
 - **Date:** October 17, 2026
 - **Status:** Completed
 
@@ -16,7 +16,7 @@ Welcome to the development log for the **Cyberpunk ESP32-S3 System Monitor PCB**
 
 ---
 
-## 📅 Entry 2: PCB Layout & Routing
+## Entry 2: PCB Layout & Routing
 - **Date:** October 17, 2026
 - **Status:** Completed
 
@@ -29,7 +29,7 @@ Welcome to the development log for the **Cyberpunk ESP32-S3 System Monitor PCB**
 
 ---
 
-## 📅 Entry 3: Ground Copper Pour & Branding
+## Entry 3: Ground Copper Pour & Branding
 - **Date:** October 17, 2026
 - **Status:** Completed
 
@@ -42,7 +42,7 @@ Welcome to the development log for the **Cyberpunk ESP32-S3 System Monitor PCB**
 
 ---
 
-## 📅 Entry 4: 3D Visualization & Final Gerber Verification
+## Entry 4: 3D Visualization & Final Gerber Verification
 - **Date:** October 17, 2026
 - **Status:** Ready for Fabrication
 
