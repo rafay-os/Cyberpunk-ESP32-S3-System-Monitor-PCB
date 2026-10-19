@@ -55,7 +55,7 @@ Welcome to the development log for the **Cyberpunk ESP32-S3 System Monitor PCB**
 
 ---
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 - **EDA Tool:** EasyEDA
 - **MCU:** ESP32-S3
 - **Power:** USB-C 5V to 3.3V LDO
